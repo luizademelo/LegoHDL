@@ -1,7 +1,7 @@
 import os
 import vivado_tcl_sv
- import iverilog_sh_sv
- import vivado_sh
+import iverilog_sh_sv
+import vivado_sh
 
 
 def list_files_in_directory(directory):
